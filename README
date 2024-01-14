@@ -1,0 +1,27 @@
+Checkers Game Repository
+
+## Repository Overview
+Цей репозиторій містить вихідний код та ресурси для гри шашки розробленої студенткою №16.Проект структурований із дотриманням сучасних стандартів
+
+## Task 1 Details
+Проект включає реалізацію гри у шашки із дотриманням стандартних правил 
+
+## Student Information
+Номер студента:16 
+Завдання з таблиці:16. Гра шашки. Формат конфігураціїї XML.
+
+
+## Technology and Tools
+Мова програмування: Python
+Технологіїї: використання Python для розробки логіки гри та інтерфейсу користувача
+Обладнання: стандартний персональний комп'ютер
+
+## Next Tasks
+**Technology:** Networking library for multiplayer functionality
+**Programming Language:** Python
+**Hardware:** Webcam for computer vision features
+
+
+
+## License
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
